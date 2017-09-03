@@ -2,9 +2,9 @@
   "basics": {
     "name": "Mayank Tahilramani",
     "label": "Cloud Networking Technology Specialist",
-    "picture": "",
+    "picture": "./local/self.jpeg",
     "email": "Mayank.Tahil@gmail.com",
-    "website":"https://mayank.tahil.site",
+    "website":"http://mayank.tahil.site",
     "summary": "This is Mayank's summary place holder.",
     "location": {
       "city": "Seattle",
@@ -23,8 +23,8 @@
         "url": "https://github.com/MayankTahil"
       },
       {
-        "network": "Citrix GitHub",
-        "username": "Citrix-TechSpecialist (Founder of Organization)",
+        "network": "GitHub",
+        "username": "Citrix-TechSpecialist (Founder)",
         "url": "https://github.com/Citrix-TechSpecialist"
       },
       {
@@ -43,9 +43,22 @@
       "summary": "Cloud, Networking and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and solution engineers to help overcome sales barriers and further the adoption of Citrix products. Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry. Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training as well as serve as overall Citrix technology evangelist.",
       "highlights": [
         "Directly impacted several million dollars in pipeline generation quarterly and helped close multi-million dollars in sales revenue yearly.",
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PLACEHOLDER",
+        "PLACEHOLDER",
+        "PLACEHOLDER"
+      ]
+    },
+    {
+      "company": "Citrix Systems Inc.",
+      "position": "Inside Sales Engineer",
+      "website": "https://www.citrix.com/",
+      "startDate": "2015-09-15",
+      "summary": "Cloud, Networking and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and solution engineers to help overcome sales barriers and further the adoption of Citrix products. Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry. Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training as well as serve as overall Citrix technology evangelist.",
+      "highlights": [
+        "Directly impacted several million dollars in pipeline generation quarterly and helped close multi-million dollars in sales revenue yearly.",
+        "PLACEHOLDER",
+        "PLACEHOLDER",
+        "PLACEHOLDER"
       ]
     }
   ],
