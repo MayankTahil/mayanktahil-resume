@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: resume
+  name: mayanktahil-resume
+spec:
+  ports:
+  - name: "resume"
+    port: 80
+    targetPort: 80
+  selector:
+    io.kompose.service: resume
+status:
+  loadBalancer: {}
