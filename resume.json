@@ -5,7 +5,7 @@
     "picture": "./self.jpeg",
     "email": "Mayank.Tahil@gmail.com",
     "website": "http://mayank.tahil.site",
-    "summary": "",
+    "summary": "Experienced Technical Specialist with a demonstrated history of working in the computer software industry. Skilled in Pre-Sales, Customer Service, Computer Networking, Cloud, Docker, and Automation. Advocate of Open Source Software (OSS), Open Source Knowledge Sharing, and the on going shift of agile transformation at the data center and in the cloud.",
     "location": {
       "city": "Seattle",
       "region": "Washington",
@@ -14,22 +14,22 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "MayankTahil",
+        "username": "@MayankTahil",
         "url": "https://www.linkedin.com/in/mayanktahil/"
       },
       {
         "network": "GitHub",
-        "username": "MayankTahil",
+        "username": "@MayankTahil",
         "url": "https://github.com/MayankTahil"
       },
       {
         "network": "GitHub",
-        "username": "Citrix-TechSpecialist (Founder)",
+        "username": "@Citrix-TechSpecialist (Founder)",
         "url": "https://github.com/Citrix-TechSpecialist"
       },
       {
         "network": "SoundCloud",
-        "username": "Mayankt",
+        "username": "@Mayankt",
         "url": "https://hub.docker.com/u/mayankt"
       }
     ]
@@ -56,10 +56,10 @@
       "website": "https://www.citrix.com/",
       "startDate": "2016-03-16",
       "endDate": "2016-06-21",
-      "summary": "Pre-Sales Engineer focusing on selling Citrix's Networking portfolio: NetScaler ADC, NetScaler SD-WAN / WAN-OP, NetScaler CPX, NetScaler MAS. Responsible for developing technical relationships with customers and prospects. Assisted Territory managers and sales representatives identify and match technology opportunities with customer business needs.",
+      "summary": "Pre-Sales Engineer focusing on selling Citrix's Networking portfolio centered around NetScaler ADC. Responsible for developing technical relationships with customers and prospects. Assisted Territory managers and sales representatives in identifying and matching technology opportunities with customer business needs.",
       "highlights": [
         "Built the curriculum and presented weekly customer facing webinars to further generate sales pipeline focusing on Citrix networking solutions including NetScaler ADC / MAS, Application Firewall, and NetScaler SD-WAN.",
-        "Influenced $200,000+ active pipeline while engaged as a technical resource for customer calls, technical demonstrations, and remote proof of concepts.",
+        "Influenced $100,000+ active pipeline while engaged as a technical resource for customer calls, technical demonstrations, and remote proof of concepts.",
         "Deliver technical sales training for sales representatives and territory managers by instructing on product communication workflows, competitive differentiation, and positioning Citrix products to business needs."
       ]
     },
@@ -69,7 +69,7 @@
       "website": "https://www.citrix.com/",
       "startDate": "2015-09-15",
       "endDate": "2016-03-16",
-      "summary": "",
+      "summary": "Functioned as an auxiliary resource within Citrix Consulting Services during enterprise customer engagements by leading discussions, assisting with configuring production environments, delivering customer presentations, and documenting processes as final deliverables.",
       "highlights": [
         "Valued project resource on Citrix Consulting engagements with distilling technical content with it's business value to C level stake holders.",
         "Consulting enterprise customers through requirement gathering, architectural designing of Citrix virtualization products, build, and deploying of Citrix solutions.",
@@ -88,6 +88,18 @@
         "Provided urgent LIMS compliance validation services to a fortune 500 pharmaceutical client under consent decree through test script development and execution as well as master data loading.",
         "Formally trained with billable experience in LabWare v6 and modern web-based LIMS such as Clarity and Exemplar LIMS which cater to large scale genomic and NEXTgen Sequencing laboratories.",
         "Optimized day to day tasks by developing modules/ libraries to interact with REST APIs and parse through XML via code in Python3.4 and Groovy1.8.6 for data handling, processing, and automation."
+      ]
+    },
+    {
+      "company": "Neurological Biomaterials and Cancer Therapeutics Laboratory at Georgia Institute of Technology",
+      "position": "Lab Affiliate",
+      "website": "http://www.bellamkondalab.net/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-07-19",
+      "summary": "Helped engineer a novel micro neural implant for bi-directonal neural interfacing with the Peripheral Nervous System for robotic limb control. This DARPA sponsored research directly addresses current amputees’ lack of ability to consciously control mobility and receive sensation from smart prosthetic limbs.",
+      "highlights": [
+        "Performed  surgeries, histological and electrophysiology studies on murine models for chronic in vivo trials to investigate host acceptance post implantation of medical device. Published a manuscript as second author on resulting nerve and biological response.",
+        " Performed and developed protocols to assemble the micro medical device post clean room fabrication. Optimized bench top workflow (hours to minutes) by utilizing Arduino (C/C++) to identify micro wires and associated PCB micro bonding pads during device fabrication. Furthermore, optimized data analysis through coding in Python."
       ]
     }
   ],
