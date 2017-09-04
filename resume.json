@@ -5,7 +5,7 @@
     "picture": "./self.jpeg",
     "email": "Mayank.Tahil@gmail.com",
     "website": "http://mayank.tahil.site",
-    "summary": "This is Mayank's summary place holder.",
+    "summary": "",
     "location": {
       "city": "Seattle",
       "region": "Washington",
@@ -41,12 +41,13 @@
       "description": "Seattle, WA",
       "website": "https://www.citrix.com/",
       "startDate": "2015-09-15",
-      "summary": "Cloud, Networking and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and solution engineers to help overcome sales barriers and further the adoption of Citrix products. Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry. Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training as well as serve as overall Citrix technology evangelist.",
+      "summary": "Cloud, Networking, and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and field resources to help overcome sales barriers and further progress technology adoption across the Americas Geo.  In perpetual collaboration with Product Managers, Sales Engineers, Developers, and Sales Leadership to enhance our existing networking products. Overall functioning as a Citrix technology evangelist at industry events such Cisco Live, Citrix Synergy, DockerCon, etc.",
       "highlights": [
-        "Directly impacted several million dollars in pipeline generation quarterly and helped close multi-million dollars in sales revenue yearly.",
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Directly impacted several million dollars in pipeline generation quarterly and facilitated multi-million dollars in sales revenue yearly through direct customer engagement and development of POC Demo environments that field resources across all Geo's leverage to sell and position Citrix Solutions.",
+        "Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry such as Docker, Rancher, Kubernetes, OpenStack, and AWS.",
+        "Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training.",
+        "Leader in architecting and building novel POC environments for customers, field resources (globally), and for self R&D purposes to help sell, better understand, improve, and intellectually contribute towards Citrix Networking Solutions.",
+        "Recognized instructor overseeing curriculum development and delivery of Instructor Led Trainings (ILTs) covering sales and positioning as well as Technical enablement covering configuration and administration of Citrix' Networking products to new hires and experienced field resources."
       ]
     },
     {
@@ -55,14 +56,11 @@
       "website": "https://www.citrix.com/",
       "startDate": "2016-03-16",
       "endDate": "2016-06-21",
-      "summary": "Pre-Sales Engineer focusing on Citrix's Networking portfolio: NetScaler ADC, NetScaler SD-WAN / WAN-OP, NetScaler CPX, NetScaler MAS. Responsible for developing technical relationships with customers and prospects. Assisted sales resources identify and match technology opportunities with customer business needs.",
+      "summary": "Pre-Sales Engineer focusing on selling Citrix's Networking portfolio: NetScaler ADC, NetScaler SD-WAN / WAN-OP, NetScaler CPX, NetScaler MAS. Responsible for developing technical relationships with customers and prospects. Assisted Territory managers and sales representatives identify and match technology opportunities with customer business needs.",
       "highlights": [
-        "PLACE HOLDER ...Influences pipeline, capitalized on revenue",
-        "PLACE HOLDER ...Part taking in call blitz.",
-        "PLACE HOLDER ...Responsible for all live, weekly Networking Deminars as first point of contact from prospective customers.",
-        "PLACE HOLDER ...Creating and delivering technical product demonstrations, presentations, and network designs and support",
-        "PLACE HOLDER ...Participating in consultations and/or product capability assessments with prospects",
-        "PLACE HOLDER ...Lead technical training for up to thirty new Territory Managers and other sales representatives on a weekly basis."
+        "Built the curriculum and presented weekly customer facing webinars to further generate sales pipeline focusing on Citrix networking solutions including NetScaler ADC / MAS, Application Firewall, and NetScaler SD-WAN.",
+        "Influenced $200,000+ active pipeline while engaged as a technical resource for customer calls, technical demonstrations, and remote proof of concepts.",
+        "Deliver technical sales training for sales representatives and territory managers by instructing on product communication workflows, competitive differentiation, and positioning Citrix products to business needs."
       ]
     },
     {
@@ -73,10 +71,9 @@
       "endDate": "2016-03-16",
       "summary": "",
       "highlights": [
-        "Directly impacted several million dollars in pipeline generation quarterly and helped close multi-million dollars in sales revenue yearly.",
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Valued project resource on Citrix Consulting engagements with distilling technical content with it's business value to C level stake holders.",
+        "Consulting enterprise customers through requirement gathering, architectural designing of Citrix virtualization products, build, and deploying of Citrix solutions.",
+        "Alumni of Citrix's Leadership Development Program, which provided technical disablement through Instructor Led Trainings, Practice over Citrix Consulting methodology, and obtained Microsoft Windows Server Certifications (MCSA, MCTS, and MCPS)."
       ]
     },
     {

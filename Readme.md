@@ -1,6 +1,8 @@
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=MayankTahil&repoName=mayanktahil-resume&branch=master&pipelineName=mayanktahil-resume&accountName=mayanktahil&type=cf-1)]( https://g.codefresh.io/repositories/MayankTahil/mayanktahil-resume/builds?filter=trigger:build;branch:master;service:59ac5add01cd6c00013811f3~mayanktahil-resume)
+
 # Introduction
 
-The repository serves as a home to my online resume. The content provided here is the source behind [http://mayank.tahil.sit](http://mayank.tahil.site). Mainly what is being updated over time is the [resume.json](./resume.json) to add additional experiences and data to my resume. 
+The repository serves as a home to my online resume. The content provided here is the source behind [http://mayank.tahil.site](http://mayank.tahil.site). Mainly what is being updated over time is the [resume.json](./resume.json) to add additional experiences and data to my resume. 
 
 After the discovery of [jsonresume](https://jsonresume.org/) (the open source initiative to create a JSON-based standard for resumes), I started to create [docker services](https://github.com/mayanktahil/resume-cli#getting-started-containerized-install) based on available utilities to quickly generate pretty `.html` for my website. I then went on to create a [Dockerfile](./Dockerfile) which serves the HTTP content.
 
