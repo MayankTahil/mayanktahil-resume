@@ -22,6 +22,7 @@ spec:
         image: mayankt/mayanktahil-resume:master
         imagePullPolicy: Always
         name: result
+        type: LoadBalancer
         ports:
         - containerPort: 80
         resources: {}

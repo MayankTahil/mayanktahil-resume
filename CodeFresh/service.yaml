@@ -6,6 +6,7 @@ metadata:
     io.kompose.service: resume
   name: mayanktahil-resume
 spec:
+  type: LoadBalancer
   ports:
   - name: "resume"
     port: 80

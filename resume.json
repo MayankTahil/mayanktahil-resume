@@ -2,9 +2,9 @@
   "basics": {
     "name": "Mayank Tahilramani",
     "label": "Cloud Networking Technology Specialist",
-    "picture": "./img/self.jpeg",
+    "picture": "./self.jpeg",
     "email": "Mayank.Tahil@gmail.com",
-    "website":"http://mayank.tahil.site",
+    "website": "http://mayank.tahil.site",
     "summary": "This is Mayank's summary place holder.",
     "location": {
       "city": "Seattle",
@@ -36,8 +36,9 @@
   },
   "work": [
     {
-      "company": "Citrix Systems Inc.",
+      "company": "Citrix Systems",
       "position": "Cloud Networking Technical Specialist",
+      "description": "Seattle, WA",
       "website": "https://www.citrix.com/",
       "startDate": "2015-09-15",
       "summary": "Cloud, Networking and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and solution engineers to help overcome sales barriers and further the adoption of Citrix products. Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry. Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training as well as serve as overall Citrix technology evangelist.",
@@ -49,80 +50,177 @@
       ]
     },
     {
-      "company": "Citrix Systems Inc.",
+      "company": "Citrix Systems",
       "position": "Inside Sales Engineer",
       "website": "https://www.citrix.com/",
+      "startDate": "2016-03-16",
+      "endDate": "2016-06-21",
+      "summary": "Pre-Sales Engineer focusing on Citrix's Networking portfolio: NetScaler ADC, NetScaler SD-WAN / WAN-OP, NetScaler CPX, NetScaler MAS. Responsible for developing technical relationships with customers and prospects. Assisted sales resources identify and match technology opportunities with customer business needs.",
+      "highlights": [
+        "PLACE HOLDER ...Influences pipeline, capitalized on revenue",
+        "PLACE HOLDER ...Part taking in call blitz.",
+        "PLACE HOLDER ...Responsible for all live, weekly Networking Deminars as first point of contact from prospective customers.",
+        "PLACE HOLDER ...Creating and delivering technical product demonstrations, presentations, and network designs and support",
+        "PLACE HOLDER ...Participating in consultations and/or product capability assessments with prospects",
+        "PLACE HOLDER ...Lead technical training for up to thirty new Territory Managers and other sales representatives on a weekly basis."
+      ]
+    },
+    {
+      "company": "Citrix Systems",
+      "position": "Technical Analyst",
+      "website": "https://www.citrix.com/",
       "startDate": "2015-09-15",
-      "summary": "Cloud, Networking and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and solution engineers to help overcome sales barriers and further the adoption of Citrix products. Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry. Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training as well as serve as overall Citrix technology evangelist.",
+      "endDate": "2016-03-16",
+      "summary": "",
       "highlights": [
         "Directly impacted several million dollars in pipeline generation quarterly and helped close multi-million dollars in sales revenue yearly.",
         "PLACEHOLDER",
         "PLACEHOLDER",
         "PLACEHOLDER"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "company": "LabAnswer",
+      "position": "Consultant",
+      "website": "http://www.labanswer.com/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-07-19",
+      "summary": "Served as a Consultant to fortune 500 pharmaceutical clients and gnomic laboratories to help strategize, architect, implement, and support scientific data management and laboratory automation projects. Specialized in Clarity LIMS and Exemplar LIMS software.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Led requirement gathering meetings and developed a Java based enhancement plug-in to Exemplar LIMS software (COTS) which allowed scientists to easily query their database and generate dynamic PDF reports of automated bench test results.",
+        "Provided urgent LIMS compliance validation services to a fortune 500 pharmaceutical client under consent decree through test script development and execution as well as master data loading.",
+        "Formally trained with billable experience in LabWare v6 and modern web-based LIMS such as Clarity and Exemplar LIMS which cater to large scale genomic and NEXTgen Sequencing laboratories.",
+        "Optimized day to day tasks by developing modules/ libraries to interact with REST APIs and parse through XML via code in Python3.4 and Groovy1.8.6 for data handling, processing, and automation."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Georgia Institute of Technology",
+      "area": "Biochemistry (Focus in Neural Engineering)",
+      "studyType": "Bachelors of Science (B.S.)",
+      "startDate": "2010-08-01",
+      "endDate": "2013-12-18",
+      "gpa": "3.28",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Head Research Assistant - School of Chemistry and Biochemistry at Georgia Institute of Technology",
+        "Lab Affiliate - Dr. Bellamkonda's Neurological Biomaterials and Cancer Therapeutics Laboratory",
+        "Georgia HOPE Scholar",
+        "Honorary Graduate - Dean's List all quarters in attendance"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Presidential Undergraduate Research Award (PURA) at Georgia Institute of Technology",
+      "date": "2013-05-01",
+      "awarder": "Georgia Institute of Technology",
+      "summary": "$1,500 Presidential Undergraduate Research Grant to develop a thick tissue histological analysis protocol to study brain matter."
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Deploying NetScaler CPX in Google Container Engine (GKE)",
+      "publisher": "GitHub - Citrix-TechSpecialist",
+      "releaseDate": "2017-4-13",
+      "website": "https://github.com/Citrix-TechSpecialist/GKE-cpx-proxy/",
+      "summary": "This literature provides a instruction on how to deploy NetScaler CPX within a Kubernetes cluster on Google Cloud to take on the functional role of KubeProxy and thereby load-balance and auto discover microservices."
+    },
+    {
+      "name": "Introduction to Docker 101",
+      "publisher": "GitHub - Citrix-TechSpecialist",
+      "releaseDate": "2017-7-18",
+      "website": "https://github.com/Citrix-TechSpecialist/Docker-101/",
+      "summary": "This literature provides an introduction to key concepts in containerization. This tutorial focuses on providing instruction to gain hands on experience on running Docker containers, creating Docker images, executing Docker commands, and automate deployment of a container driven 'developer environment' using docker-compose."
+    },
+    {
+      "name": "Introduction to NetScaler VPX in AWS",
+      "publisher": "GitHub - Citrix-TechSpecialist",
+      "releaseDate": "2017-7-07",
+      "website": "https://github.com/Citrix-TechSpecialist/NetScaler-in-AWS-101/",
+      "summary": "This literature provides an introduction to key concepts of AWS Cloud. This tutorial focuses on providing instruction to gain hands on experience with Cloud networking with VPCs, provisioning instances with EC2, managing persistent storage with EFS and S3, and configuring NetScaler VPX in the cloud."
+    },
+    {
+      "name": "A regenerative microchannel device for recording multiple single-unit action potentials in awake, ambulatory animals",
+      "publisher": "European Journal of Neuroscience",
+      "releaseDate": "2015-10-28",
+      "website": "http://onlinelibrary.wiley.com/doi/10.1111/ejn.13080/full?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By7JCjXuTSzKf%2BgVf3NAjKg%3D%3D",
+      "summary": "This study reports on the development of a fully integrated, regenerative microchannel interface with microelectrodes for nerve signal extraction and capabilities to enabling evaluation in an awake and ambulatory rat animal model. This study marks a significant advance in neural interfacing, demonstrating the capability of microchannels to be used for communicating with peripheral nerves."
+    },
+    {
+      "name": "Microchannels as a Regenerative Construct for Peripheral Nerve Interfacing.",
+      "publisher": "Biomaterials",
+      "releaseDate": "2015-02-01",
+      "website": "https://www.ncbi.nlm.nih.gov/pubmed/25522974?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B86eGMF1VRHmFBu%2BFCUvwXA%3D%3D",
+      "summary": "These studies showed that precisely fabricated microchannels support and direct the regeneration/migration of axons, Schwann cells, and fibroblasts through the microchannels during nerve regeneration and recovery. Results provided evidence that the construct is biologically compatible for in vivo peripheral neural interfacing."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Coding / Scripting",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Python",
+        "Java",
+        "Bash / Shell",
+        "HTML", 
+        "YAML"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Leadership",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Instructor Led Trainings",
+        "Mentorship",
+        "Project Management",
+        "Thought Leadership"
+      ]
+    },
+    {
+      "name": "Sales",
+      "keywords": [
+        "Customer Service",
+        "Qualifying Opportunities",
+        "Pipeline Management",
+        "Sales Prospecting"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [
+        "Mac OS X",
+        "Debian / Ubuntu",
+        "Alpine",
+        "Windows Desktop",
+        "Windows Server 2008 / 2012",
+        "Rancher OS"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "keywords": [
+        "AWS",
+        "Google Cloud",
+        "OpenStack"
+      ]
+    },
+    {
+      "name": "Containers",
+      "keywords": [
+        "Docker",
+        "Docker Compose",
+        "Rancher",
+        "Kubernetes",
+        "CodeFresh (CI/CD)",
+        "Drone (CI/CD)"
+      ]
+    },
+      {
+      "name": "Automation",
+      "keywords": [
+        "Cloud Init",
+        "Ansible",
+        "Helm",
+        "Citrix Smart Tools"
       ]
     }
   ],
@@ -130,21 +228,100 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
+      "name": "Reddit",
+      "keywords": [
+        "r/selfhosted",
+        "r/homelab",
+        "r/Seattle"
+      ]
+    },
+    {
+      "name": "IOT",
+      "keywords": [
+        "Raspberry Pi",
+        "Octoblu",
+        "ResinOS"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+        "Mount Ranier",
+        "Mount Hood",
+        "Big Four Ice Caves"
+      ]
+    },
+    {
       "name": "Wildlife",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Dog Owner (Akiela)",
+        "Cat Owner (Winston)",
+        "Animal Shelter Volunteer"
+      ]
+    },
+    {
+      "name": "Bioscience",
+      "keywords": [
+        "Neuroscience",
+        "Neural Biomedical Engineering",
+        "Genomics"
+      ]
+    },
+    {
+      "name": "Open Source Software",
+      "keywords": [
+        "GitHub Projects",
+        "Self Hosted Services",
+        "Homelab"
+      ]
+    },
+    {
+      "name": "Self Hosting",
+      "keywords": [
+        "Home Media Center",
+        "Container Cloud",
+        "OwnCloud"
+      ]
+    },
+    {
+      "name": "Home Cooking",
+      "keywords": [
+        "Smoked Ribs & BBQ",
+        "Tiramisu",
+        "Pizza"
+      ]
+    },
+    {
+      "name": "Instructing",
+      "keywords": [
+        "AP / College Tutoring",
+        "Technology Workshops",
+        "Instructor Led Training"
+      ]
+    },
+    {
+      "name": "Public Speaking",
+      "keywords": [
+        "Thought Leadership",
+        "Citrix Evangelist",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Neural Engineering",
+      "Keywords": [
+        "PNI",
+        "Neurology",
+        ""
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+  ] 
 }
