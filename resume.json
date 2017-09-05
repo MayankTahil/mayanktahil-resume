@@ -52,15 +52,15 @@
     },
     {
       "company": "Citrix Systems",
-      "position": "Sales Engineer",
+      "position": "Pre-Sales Engineer",
       "website": "https://www.citrix.com/",
       "startDate": "2016-03-16",
       "endDate": "2016-06-21",
-      "summary": "Pre-Sales Engineer focusing on selling Citrix's Networking portfolio centered around NetScaler ADC. Responsible for developing technical relationships with customers and prospects. Assisted Territory managers and sales representatives in identifying and matching technology opportunities with customer business needs.",
+      "summary": "Focused on selling Citrix's Networking portfolio centered around NetScaler. Responsible for developing technical relationships with customers and prospects. Assisted Territory Managers and sales representatives in identifying and matching technology opportunities with customer business needs.",
       "highlights": [
-        "Built the curriculum and presented weekly customer facing webinars to further generate sales pipeline focusing on Citrix networking solutions including NetScaler ADC / MAS, Application Firewall, and NetScaler SD-WAN.",
-        "Influenced $100,000+ active pipeline while engaged as a technical resource for customer calls, technical demonstrations, and remote proof of concepts.",
-        "Deliver technical sales training for sales representatives and territory managers by instructing on product communication workflows, competitive differentiation, and positioning Citrix products to business needs."
+        "Built the curriculum and presented weekly customer facing webinars to further generate sales pipeline focusing on Citrix networking solutions (NetScaler ADC / MAS, Application Firewall, and NetScaler SD-WAN.",
+        "Influenced $100,000+ in active pipeline while engaged as a technical resource for customer calls, product demonstrations, and remote proof of concepts.",
+        "Delivered technical sales training for Territory Managers and Sales Representatives by instructing on product communication workflows, competitive differentiation, and positioning Citrix products to business needs."
       ]
     },
     {
@@ -69,10 +69,10 @@
       "website": "https://www.citrix.com/",
       "startDate": "2015-09-15",
       "endDate": "2016-03-16",
-      "summary": "Functioned as an auxiliary resource within Citrix Consulting Services during enterprise customer engagements by leading discussions, assisting with configuring production environments, delivering customer presentations, and documenting processes as final deliverables.",
+      "summary": "Functioned as an on-site resource within Citrix Consulting Services during enterprise customer engagements by leading discussions, configuring production environments, delivering customer presentations, and documenting final deliverables.",
       "highlights": [
-        "Valued project resource on Citrix Consulting engagements with distilling technical content with it's business value to C level stake holders.",
-        "Consulting enterprise customers through requirement gathering, architectural designing of Citrix virtualization products, build, and deploying of Citrix solutions.",
+        "Valued project resource on Citrix Consulting engagements. Distilled technical content with it's business value to C-level stakeholders.",
+        "Consulted enterprise customers through requirement gathering, architectural design, build, and deploying of Citrix Virtualization solutions.",
         "Alumni of Citrix's Leadership Development Program, which provided technical disablement through Instructor Led Trainings, Practice over Citrix Consulting methodology, and obtained Microsoft Windows Server Certifications (MCSA, MCTS, and MCPS)."
       ]
     },
