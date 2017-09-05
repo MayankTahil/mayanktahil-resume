@@ -5,7 +5,7 @@
     "picture": "./self.jpeg",
     "email": "Mayank.Tahil@gmail.com",
     "website": "http://mayank.tahil.site",
-    "summary": "Experienced Technical Specialist who isn't afraid to automate anything and everything. Skilled in Pre-Sales, Customer Service, Computer Networking, Cloud, Docker, and Automation. Advocate of Open Source Software (OSS), Open Source Knowledge Sharing, and the on going shift of agile transformation at the data center and in the cloud.",
+    "summary": "Experienced tech specialist who isn't afraid to automate anything and everything! Skilled in Pre-Sales, Customer Service, Networking, Cloud, Docker, and Automation. Advocate of Open Source Software (OSS), Open Source Knowledge Sharing, and the ongoing shift of agile transformation at the data center and in the cloud.",
     "location": {
       "city": "Seattle",
       "region": "Washington",
@@ -41,18 +41,18 @@
       "description": "Seattle, WA",
       "website": "https://www.citrix.com/",
       "startDate": "2015-09-15",
-      "summary": "Cloud, Networking, and DevOps subject matter expert within Americas Professional Services at Citrix. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and field resources to help overcome sales barriers and further progress technology adoption across the Americas Geo.  In perpetual collaboration with Product Managers, Sales Engineers, Developers, and Sales Leadership to enhance our existing networking products. Overall functioning as a Citrix technology evangelist at industry events such Cisco Live, Citrix Synergy, DockerCon, etc.",
+      "summary": "Cloud, Networking, and DevOps subject matter expert supporting Sales and Professional Services within the Americas Geo. Dedicated to the acquisition, development, and dissemination of technical knowledge to customers and field resources to help overcome sales barriers and progress technology adoption. In perpetual collaboration with Product Managers, Sales Engineers, Developers, and Sales Leadership to enrich Citrix's networking portfolio. Functioning as a Citrix technology evangelist at industry events such Cisco Live, Citrix Synergy, DockerCon, etc.",
       "highlights": [
-        "Directly impacted several million dollars in pipeline generation quarterly and facilitated multi-million dollars in sales revenue yearly through direct customer engagement and development of POC Demo environments that field resources across all Geo's leverage to sell and position Citrix Solutions.",
+        "Directly impacted multi-million dollars in pipeline generation every quarter. Facilitated over $2 million dollars in sales revenue through direct customer engagement and development of POC Demo environments that field resources across all geo's leverage to sell and position Citrix Solutions.",
         "Responsible for developing subject matter expertise in Citrix products as well as complementary/competitive technologies within the industry such as Docker, Rancher, Kubernetes, OpenStack, and AWS.",
-        "Involved in the development of best practices for new product releases, gathering product enhancement feedback and the development and delivery of technical training.",
-        "Leader in architecting and building novel POC environments for customers, field resources (globally), and for self R&D purposes to help sell, better understand, improve, and intellectually contribute towards Citrix Networking Solutions.",
-        "Recognized instructor overseeing curriculum development and delivery of Instructor Led Trainings (ILTs) covering sales and positioning as well as Technical enablement covering configuration and administration of Citrix' Networking products to new hires and experienced field resources."
+        "Involved in establishing best practices for new product releases, gathering product enhancement feedback, and developing/delivering technical trainings.",
+        "Leader in architecting and building novel POC environments for customers and field resources globally. Committed to building demo environments through self R&D to better  sell, enable, improve, and intellectually contribute towards Citrix Networking Solutions.",
+        "Recognized instructor responsible for curriculum development and delivery of Instructor Led Trainings (ILTs). Trainings focus on sales and positioning, as well as technical enablement through hands on learning for new hires and experienced field resources."
       ]
     },
     {
       "company": "Citrix Systems",
-      "position": "Inside Sales Engineer",
+      "position": "Sales Engineer",
       "website": "https://www.citrix.com/",
       "startDate": "2016-03-16",
       "endDate": "2016-06-21",
@@ -208,8 +208,9 @@
       "name": "Cloud",
       "keywords": [
         "AWS",
-        "Google Cloud",
-        "OpenStack"
+        "Google Cloud (GKE)",
+        "OpenStack",
+        "SoftLayer"
       ]
     },
     {
